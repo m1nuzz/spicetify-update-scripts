@@ -1,3 +1,4 @@
+spicetify spotify-updates block --bypass-admin
 spicetify
 spicetify backup
 spicetify upgrade
